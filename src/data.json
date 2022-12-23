@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "task":"Have a breakfast",
+        "complete":false
+    },
+    {
+        "id":2,
+        "task":"Recap React",
+        "complete":true
+    },
+    {
+        "id":3,
+        "task":"Write something new",
+        "complete":true
+    },
+    {
+        "id":4,
+        "task":"Getting started to make a to do list",
+        "complete":true
+    },
+    {
+        "id":5,
+        "task":"Finish to do list",
+        "complete":false
+    },
+    {
+        "id":6,
+        "task":"Recap and rewrite code again",
+        "complete":false
+    }
+]
